@@ -34,8 +34,6 @@
    ```
 2. Open the `index.html` file in your web browser to view the project.
 
-## Preview
-![Project Preview](assets/images/preview.png)
 
 **## Future Enhancements****
 
